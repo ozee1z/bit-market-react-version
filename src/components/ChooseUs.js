@@ -21,7 +21,7 @@ export default function ChooseUs () {
                     <div className="card-body">
                       <h5 className="card-title fw-bold">Buy & Sell Crypto</h5>
                       <p className="card-text">Buy and sell digital currencies keep<br /> track of them in the one place</p>
-                      <a href="#" className="btn btn-outline-primary mt-3">Buy crypto</a>
+                      <a href="#buyCrypto" className="btn btn-outline-primary mt-3">Buy crypto</a>
                     </div>
                   </div>
                 </div>
@@ -33,7 +33,7 @@ export default function ChooseUs () {
                     <div className="card-body">
                       <h5 className="card-title fw-bold">Recurring Buys</h5>
                       <p className="card-text">Invest in cryptocurrency scheduling<br /> buys daily, weekly or monthly</p>
-                      <a href="#" className="btn btn-outline-primary mt-3">Buy crypto</a>
+                      <a href="#buyCrypto" className="btn btn-outline-primary mt-3">Buy crypto</a>
                     </div>
                   </div>
                 </div>
@@ -45,7 +45,7 @@ export default function ChooseUs () {
                     <div className="card-body">
                       <h5 className="card-title fw-bold">Mobile Apps</h5>
                       <p className="card-text">Stay on top of the market with the<br /> bit market app on android or IOS.</p>
-                      <a href="#" className="btn btn-outline-primary mt-3">Buy crypto</a>
+                      <a href="#buyCrypto" className="btn btn-outline-primary mt-3">Buy crypto</a>
                     </div>
                   </div>
                 </div>
